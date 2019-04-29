@@ -1,0 +1,77 @@
+.body{
+  background-color: #ffe6eb;
+  margin: 0;
+  text-align: center;
+  align-content: center;
+  position: relative;
+}
+.whole-content{
+display: inline-block;
+}
+
+
+.profile-img{
+  background-color: #f3f8ff;
+  border-radius: 100px;
+}
+.div{
+  display: inline-block;
+}
+
+.top-container{
+  text-align: center;
+  position:relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  text-align: center;
+  position: relative;
+  width: 200px;
+  height: 200px;
+}
+.skill-img{
+  border-radius: 100px;
+  background-color:  #f3f8ff;
+  text-align: center;
+  position: relative;
+  width: 200px;
+  height: 200px;
+}
+.bottom-container{
+  text-align: center;
+}
+
+.mountain{
+  width: 60%;
+  height: 60%;
+}
+.sun-cloud{
+  position: relative;
+  bottom: 900px;
+  width: 200px;
+  height: 200px;
+}
+.cloud{
+  position: relative;
+  bottom: 850px;
+  width: 200px;
+  height: 200px;
+}
+
+
+h1{
+  font-size: 50px;
+  font-family: 'Rochester';
+  margin-top: 0;
+}
+h2{
+  font-family: 'Courgette', cursive;
+}
+h3{
+  font-family: 'Handlee', cursive;
+}
+p{
+  font-family: 'Italianno';
+  font-size: 30px;
+}
